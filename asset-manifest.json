@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/akhil-kondabathini-pagination/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/akhil-kondabathini-pagination/static/js/main.0389daec.chunk.js",
+    "main.js.map": "/akhil-kondabathini-pagination/static/js/main.0389daec.chunk.js.map",
+    "runtime-main.js": "/akhil-kondabathini-pagination/static/js/runtime-main.0ac8a2a5.js",
+    "runtime-main.js.map": "/akhil-kondabathini-pagination/static/js/runtime-main.0ac8a2a5.js.map",
+    "static/js/2.2a030c7f.chunk.js": "/akhil-kondabathini-pagination/static/js/2.2a030c7f.chunk.js",
+    "static/js/2.2a030c7f.chunk.js.map": "/akhil-kondabathini-pagination/static/js/2.2a030c7f.chunk.js.map",
+    "static/js/3.6425c515.chunk.js": "/akhil-kondabathini-pagination/static/js/3.6425c515.chunk.js",
+    "static/js/3.6425c515.chunk.js.map": "/akhil-kondabathini-pagination/static/js/3.6425c515.chunk.js.map",
+    "index.html": "/akhil-kondabathini-pagination/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/akhil-kondabathini-pagination/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2a030c7f.chunk.js.LICENSE.txt": "/akhil-kondabathini-pagination/static/js/2.2a030c7f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ac8a2a5.js",
+    "static/js/2.2a030c7f.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.0389daec.chunk.js"
+  ]
+}
