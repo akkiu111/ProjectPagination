@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ProjectPagination/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/ProjectPagination/static/js/main.0389daec.chunk.js",
-    "main.js.map": "/ProjectPagination/static/js/main.0389daec.chunk.js.map",
-    "runtime-main.js": "/ProjectPagination/static/js/runtime-main.8f7f8151.js",
-    "runtime-main.js.map": "/ProjectPagination/static/js/runtime-main.8f7f8151.js.map",
-    "static/js/2.2a030c7f.chunk.js": "/ProjectPagination/static/js/2.2a030c7f.chunk.js",
-    "static/js/2.2a030c7f.chunk.js.map": "/ProjectPagination/static/js/2.2a030c7f.chunk.js.map",
-    "static/js/3.6425c515.chunk.js": "/ProjectPagination/static/js/3.6425c515.chunk.js",
-    "static/js/3.6425c515.chunk.js.map": "/ProjectPagination/static/js/3.6425c515.chunk.js.map",
-    "index.html": "/ProjectPagination/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/ProjectPagination/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.2a030c7f.chunk.js.LICENSE.txt": "/ProjectPagination/static/js/2.2a030c7f.chunk.js.LICENSE.txt"
+    "main.css": "/project-pagination/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/project-pagination/static/js/main.0389daec.chunk.js",
+    "main.js.map": "/project-pagination/static/js/main.0389daec.chunk.js.map",
+    "runtime-main.js": "/project-pagination/static/js/runtime-main.62172ebf.js",
+    "runtime-main.js.map": "/project-pagination/static/js/runtime-main.62172ebf.js.map",
+    "static/js/2.2a030c7f.chunk.js": "/project-pagination/static/js/2.2a030c7f.chunk.js",
+    "static/js/2.2a030c7f.chunk.js.map": "/project-pagination/static/js/2.2a030c7f.chunk.js.map",
+    "static/js/3.6425c515.chunk.js": "/project-pagination/static/js/3.6425c515.chunk.js",
+    "static/js/3.6425c515.chunk.js.map": "/project-pagination/static/js/3.6425c515.chunk.js.map",
+    "index.html": "/project-pagination/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/project-pagination/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2a030c7f.chunk.js.LICENSE.txt": "/project-pagination/static/js/2.2a030c7f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f7f8151.js",
+    "static/js/runtime-main.62172ebf.js",
     "static/js/2.2a030c7f.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.0389daec.chunk.js"
